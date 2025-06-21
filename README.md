@@ -1,2 +1,1 @@
-# DL_Project
-Customer Churn Prediction
+"# CustomerChurn_DL_Project" 
